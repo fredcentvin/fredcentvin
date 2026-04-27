@@ -1,16 +1,40 @@
 ## Hi there 👋
+# 👋 Bonjour, je suis Frédéric Boniface
 
-<!--
-**fredcentvin/fredcentvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fondateur de **Studio Local+** et **Devcode**, j’accompagne les TPE/PME dans la création de sites web modernes, rapides et orientés conversion.  
+Basé à **Nemours (77)**, je conçois des solutions digitales premium pour les entreprises locales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Ce que je fais
+
+- Développement de sites vitrines modernes (React / Vite)
+- Optimisation SEO locale (Nemours, Seine-et-Marne)
+- Refonte de sites existants
+- Accompagnement digital pour petites entreprises
+- Intégration responsive & performance web
+
+---
+
+## 🌐 Mon site web
+
+Découvrez mes services, projets et réalisations :  
+👉 **https://agence-devcode.fr**
+
+---
+
+## 🛠️ Technologies
+
+- HTML / CSS / JavaScript  
+- React / Vite  
+- SEO technique  
+- UI/UX minimaliste  
+- Git / GitHub  
+
+---
+
+
+
+Merci de votre visite !
+
+
