@@ -26,6 +26,9 @@ Basé à **Nemours (77)**, je conçois des solutions digitales premium pour les 
 ## 💼 Mockup Agence Devcode
 <img src="https://agence-devcode.fr/assets/mockups/mockupagencedevcode.webp" alt="Mockup Agence Devcode" width="500">
 
+## 🌿 Branding Studio Local+
+<img src="https://studiolocal.fr/assets/logos/logo.png" alt="Logo StudioLocal+" width="140">
+
 
 
 
